@@ -1,1 +1,21 @@
 @charset "UTF-8";
+
+.flex-first-left {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-first-right {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.flex-second {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-third {
+  display: flex;
+  flex-direction: column-reverse;
+}
